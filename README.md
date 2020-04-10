@@ -1,4 +1,4 @@
-## Travai de maison
+## Travail de maison
 
 Travail à faire pour demain :
 1. Créer deux classes : Canin et Felin
@@ -12,6 +12,6 @@ Travail à faire pour demain :
 4. Créer deux autres classes Loup et Tigre
 5. Faite la bonne association entre Canin et Felin
 
-Données à déposer :
-1. un zip avec tout le code
-2. puis le diagramme de classe mis à jour (utilisez draw.io)
+
+## Diagramme de classe
+![Diagram](DM-UML-JAVA.png)
