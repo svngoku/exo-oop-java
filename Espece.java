@@ -4,8 +4,6 @@ class Espece {
     final public static String Loup = "Loup";
     final public static String Tigre = "Tigre";
 
-    // zip tp-gmairui-java.zip .  tp-gmairui-java/
-
     private String espece;
 
     public Espece(String espece)
